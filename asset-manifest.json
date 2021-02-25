@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/diplom_react4/static/css/main.41e72b94.chunk.css",
+    "main.js": "/diplom_react4/static/js/main.b33ae2da.chunk.js",
+    "main.js.map": "/diplom_react4/static/js/main.b33ae2da.chunk.js.map",
+    "runtime-main.js": "/diplom_react4/static/js/runtime-main.84a19f05.js",
+    "runtime-main.js.map": "/diplom_react4/static/js/runtime-main.84a19f05.js.map",
+    "static/js/2.53ec70dd.chunk.js": "/diplom_react4/static/js/2.53ec70dd.chunk.js",
+    "static/js/2.53ec70dd.chunk.js.map": "/diplom_react4/static/js/2.53ec70dd.chunk.js.map",
+    "index.html": "/diplom_react4/index.html",
+    "static/css/main.41e72b94.chunk.css.map": "/diplom_react4/static/css/main.41e72b94.chunk.css.map",
+    "static/js/2.53ec70dd.chunk.js.LICENSE.txt": "/diplom_react4/static/js/2.53ec70dd.chunk.js.LICENSE.txt",
+    "static/media/br.e721e75b.png": "/diplom_react4/static/media/br.e721e75b.png",
+    "static/media/cloud.53054bc4.png": "/diplom_react4/static/media/cloud.53054bc4.png",
+    "static/media/dead.456fc028.png": "/diplom_react4/static/media/dead.456fc028.png",
+    "static/media/inter.4cc2686c.png": "/diplom_react4/static/media/inter.4cc2686c.png",
+    "static/media/matrix.8a0c752c.png": "/diplom_react4/static/media/matrix.8a0c752c.png",
+    "static/media/max.167bcbe9.png": "/diplom_react4/static/media/max.167bcbe9.png",
+    "static/media/silicon.242396a7.png": "/diplom_react4/static/media/silicon.242396a7.png",
+    "static/media/xfiles.9ea01c7c.png": "/diplom_react4/static/media/xfiles.9ea01c7c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84a19f05.js",
+    "static/js/2.53ec70dd.chunk.js",
+    "static/css/main.41e72b94.chunk.css",
+    "static/js/main.b33ae2da.chunk.js"
+  ]
+}
